@@ -6,7 +6,7 @@
 
 :warning: Merci de regarder le repo de l'application Android 
 
-  - ![#1589F0]([Voir le repo Android Rubiks](https://github.com/TimPrd/Android-Rubiks))
+  - [Voir le repo Android Rubiks](https://github.com/TimPrd/Android-Rubiks)
 
 # I. Introduction
 
