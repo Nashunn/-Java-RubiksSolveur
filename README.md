@@ -7,7 +7,24 @@
 :warning: Merci de regarder le repo de l'application Android 
 
   - [Voir le repo Android Rubiks](https://github.com/TimPrd/Android-Rubiks)
+  
+  - [Voir la video de démo](https://youtu.be/MeojRx8Fa_A)
+  
+  Explication : 
+  Cette vidéo permet de voir la résolution en action. 
+  Rentrer le mot "Flamingo" permet d'avoir un cube déjà instancié (plus rapide et pratique pour la vidéo) ressemblant à celui-ci : 
+  [[https://github.com/TimPrd/-Java-RubiksSolveur/ruwix.png|alt=rubik]]
 
+  On appuie alors sur résoudre, le serveur reçoit le cube, demande a des workers de trouver une solution et restitue le résultat.
+  Il est ensuite interprété et mis en images par le client.
+  
+  Afin de tester, il faut :
+  - Lancer le serveur. (Network/Main.java)
+  
+  - Lancer quelques workers qui travailleront pour le serveur (Network/Worker/ClientWorker.java)
+  
+  - Installer l'application (https://github.com/TimPrd/Android-Rubiks), rentrer l'adresse du serveur, le cube et appuyer sur résoudre
+  
 # I. Introduction
 
 Dans le cadre de notre projet de fin d’année en Java au sein de Sorbonne Université campus UPMC, nous avons développé un projet en binôme.
