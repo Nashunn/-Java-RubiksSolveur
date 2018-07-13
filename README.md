@@ -13,7 +13,7 @@
   Explication : 
   Cette vidéo permet de voir la résolution en action. 
   Rentrer le mot "Flamingo" permet d'avoir un cube déjà instancié (plus rapide et pratique pour la vidéo) ressemblant à celui-ci :
-  [[https://github.com/TimPrd/blob/master/-Java-RubiksSolveur/ruwix.png|alt=rubik]]
+  ![ruwix](https://github.com/TimPrd/-Java-RubiksSolveur/blob/master/ruwix.png)
 
   On appuie alors sur résoudre, le serveur reçoit le cube, demande a des workers de trouver une solution et restitue le résultat.
   Il est ensuite interprété et mis en images par le client.
